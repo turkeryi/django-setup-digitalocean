@@ -15,6 +15,8 @@
 ### Bash Script for Set Up Django with Postgres, Nginx and Gunicorn on DigitalOcean
 ### (Bonus: Automatic Deployment with Git)
 
+> If you wanna use purse version, don't forget to set vars
+
 
 ## Usage
 
