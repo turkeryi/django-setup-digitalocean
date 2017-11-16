@@ -9,7 +9,14 @@
                              _    ___   |___/   _       |/       |___/            
                 __ _ _ _  __| |  / __|_  _ _ _ (_)__ ___ _ _ _ _                  
                / _` | ' \/ _` | | (_ | || | ' \| / _/ _ | '_| ' \                 
-               \__,_|_||_\__,_|  \___|\_,_|_||_|_\__\___|_| |_||_| 
+               \__,_|_||_\__,_|  \___|\_,_|_||_|_\__\___|_| |_||_|
+
+
+ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+
+
+
+ This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
 
 
 ### Bash Script for Set Up Django with Postgres, Nginx and Gunicorn on DigitalOcean
